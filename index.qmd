@@ -1,0 +1,54 @@
+---
+listing:
+  id: news-listing
+  contents: posts
+  date-format: iso
+  sort: "date desc"
+  type: default
+  max-items: 5
+  image-placeholder: "images/logo.png"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+---
+
+Ropes in Space is a rope event run every secon Monday in Glasgow. It is a peer-learning event, meaning we have no formal teaching or authority at the event. However, there will always be someone on hand to make sure you feel welcome. They are also present to answer questions and take feedback.
+
+We aim to be a relaxed environment in which you can practice rope: alone, partnered, as a rigger, bottom, switch – however you want to explore rope!
+
+## The event
+
+The event is held in Glasgow, close to public transport links to the city centre. Precise location is disclosed to attendees. We start at 6:30pm, and the event ends at 10:30pm.
+
+While anyone is welcome to any session if you are brand new to rope or need a refresher our total beginner 101s for 2026 will run on:
+
+*  26th of January
+*  20th of April
+*  27th of July
+*  19th of October
+
+Aside from quarterly 101s we have two different types of sessions: *Peer Share* and *Open Tying*.
+
+The first event each month will be a Peer Share session which means you can expect a learning focused atmosphere perfect to bring skills you want to practice, questions you have, or things you want to geek out about and share. Music will be at a lower level to allow for conversations. This will not be a traditional class/formal rope education format.
+
+Unless otherwise advertised the second event each month will be an Open Tying session. Which means you can expect to find more vibes and less chat to facilitate space to really get into tying. Music will be at a slightly increased volume and attendees will be reminded to keep chat to a minimum.
+
+Please note that participation in any of the aspects outlined above is entirely optional, and you may use the space for free-tying as you see fit!
+
+## Transparency & Feedback
+
+Should you need to report feedback on the event anonymously, you can do via [this form](https://cryptpad.fr/form/#/2/form/view/2Kucmewitfv0oagyICsxCB-IBkiVIi0zs49H5VQJM1k/).
+Responses to the feedback form are monitored by volunteers in RiS' logistics and safety teams.
+
+## Contact
+
+If you have any queries about the event, or feedback you would like to provide, please message the [Fetlife page](https://fetlife.com/RopesinSpace) and a member of the team will get back to you!
+
+
+
+### Recent News
+
+::: {#news-listing}
+:::
+
+[Older news...](posts.html)

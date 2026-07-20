@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ropes in Space"
+  site-url: https://ropesinspace.github.io
+  repo-url: https://github.com/ropesinspace/ropesinspace.github.io
+  image: /images/logo.png
+  favicon: /images/favicon.ico
+  navbar:
+    logo: /images/logo.png
+    logo-alt: ""
+    right:
+      - faq.qmd
+      - codeofconduct.qmd
+format:
+  html:
+    theme: slate
+    css: styles.css
+
+
