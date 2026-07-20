@@ -16,7 +16,9 @@ website:
       - codeofconduct.qmd
 format:
   html:
-    theme: slate
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
 
 
