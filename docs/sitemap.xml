@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ropesinspace.github.io/faq.html</loc>
-    <lastmod>2026-07-20T08:22:19.124Z</lastmod>
-  </url>
-  <url>
     <loc>https://ropesinspace.github.io/index.html</loc>
-    <lastmod>2026-07-20T08:38:22.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ropesinspace.github.io/posts/2025_anchor-point.html</loc>
-    <lastmod>2026-07-20T08:34:32.557Z</lastmod>
+    <lastmod>2026-11-23T20:13:21.801Z</lastmod>
   </url>
   <url>
     <loc>https://ropesinspace.github.io/codeofconduct.html</loc>
-    <lastmod>2026-07-20T08:25:20.755Z</lastmod>
+    <lastmod>2026-11-23T19:44:49.429Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ropesinspace.github.io/faq.html</loc>
+    <lastmod>2026-11-23T19:44:49.463Z</lastmod>
   </url>
 </urlset>
